@@ -61,3 +61,14 @@ A service account in kubernetes is an entity to provide identity to a pod. Here,
 ### Creste Fluentd Cluster Role Binding
 
 A cluster rolebinding in kubernetes grants permissions defined in a cluster role to a service account. We want to create a rolebinding between the role and the service account created above. 
+
+### Reference url
+```
+https://devopscube.com/setup-efk-stack-on-kubernetes/
+```
+```
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-elasticsearch-fluentd-and-kibana-efk-logging-stack-on-kubernetes
+```
+```
+https://github.com/fluent/fluentd/issues/2545
+```
